@@ -27,13 +27,66 @@ Active class participation is central to our work together. Attendance is mandat
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 15 |
-| Debates | 20 |
-| 5 Short Written Assignments | 25 (5% each) |
-| 3 Visual Exercises | 15 (5% each) |
-| Final Assignment (5-page paper) | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Debates
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 Short Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+25 (5% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Visual Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+15 (5% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Assignment (5-page paper)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Materials
 ----------------
@@ -57,47 +110,445 @@ Calendar
 
 In most weeks, the class met twice. Professors McCants and / or Ravel led lectures, unless otherwise indicated.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | Introduction I. Time: World History and Deep History | &nbsp; |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 2 | Introduction II. Space: "Reading" Maps | In-class: Map Exercise with MIT Museum materials. |
-| 3 | The Big Picture I: From Afro-Eurasia to the World, ca. 1200 to 1700 | First Visual Exercise due |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 4 | Medieval Travelers (Professor McCants & [Professor Christopher Leighton](https://ilp.mit.edu/node/11734), History, MIT) | &nbsp; |
-| 5 | Contact and Conflict in East Asia | First Written Assignment due |
-| {{< td-colspan 3 >}}**Week 4**{{< /td-colspan >}} |||
-| 6 | Contact and Conflict in East Asia—Discussion | &nbsp; |
-| 7 | Contact and Conflict in the Americas | Second Written Assignment due |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 8 | Contact and Conflict in the Americas—Discussion | &nbsp; |
-| 9 | Debating World History, 1300–1600 | First Debate |
-| _This week included a trip outside of normal meeting times.—eds._ | Class Visit to the U.S.S. Constitution | &nbsp; |
-| {{< td-colspan 3 >}}**Week 6**{{< /td-colspan >}} |||
-| 10 | The Big Picture II: Global Trade, Empire, and Industrialization, 1600–1870 | Third Written Assignment due |
-| 11 | Empire, Ideology, and Architecture: Eighteenth-Century Global Examples | &nbsp; |
-| {{< td-colspan 3 >}}**Week 7**{{< /td-colspan >}} |||
-| 12 | The Atlantic Revolutions in Global Context | &nbsp; |
-| 13 | Visit to MIT Museum | &nbsp; |
-| {{< td-colspan 3 >}}**Week 8**{{< /td-colspan >}} |||
-| 14 |  {{< br >}}{{< br >}} Revolutions - Industrial and Industrious, Not Political {{< br >}}{{< br >}}  | Second Visual Assignment due |
-| 15 | Consumption | &nbsp; |
-| {{< td-colspan 3 >}}**Week 9**{{< /td-colspan >}} |||
-| 16 | Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/faculty/kristel-smentek), Architecture, MIT) | Fourth Written Assignment due |
-| 17 | Debating World History, 1600–1870 | Second Debate |
-| {{< td-colspan 3 >}}**Week 10**{{< /td-colspan >}} |||
-| 18 | The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond | &nbsp; |
-| 19 | Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & [Professor Charles Shadle](http://mta.mit.edu/person/charles-shadle), Music and Theater, MIT) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 11**{{< /td-colspan >}} |||
-| _What would have been a class session was a holiday. There was no lecture, but an assignment was due.—eds._ | No Class | Fifth Written Assignment due |
-| 20 | Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Professor Sana Aiyar](http://history.mit.edu/people/sana-aiyar), History, MIT) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 12**{{< /td-colspan >}} |||
-| 21 | 1918: The Wilsonian Moment in the Middle East ([Professor Lerna Ekmekcioglu](http://history.mit.edu/people/lerna-ekmekcioglu), History, MIT) | &nbsp; |
-| 22 | The Era of Mass Society and Total War ([Professor Hiromu Nagahara](http://history.mit.edu/people/hiromu-nagahara), History, MIT) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 13**{{< /td-colspan >}} |||
-| 23 | Ideology and Practice: The Cold War as a Way of Life ([Professor Chris Capozzola](http://history.mit.edu/people/christopher-capozzola), History, MIT) | Third Visual Assignment due |
-| 24 | Debate: Globalization, 1870-Present | Third Debate |
-| {{< td-colspan 3 >}}**Week 14**{{< /td-colspan >}} |||
-| 25 | Migrations, Citizenship, and Identity in the Post-World War II Era ([Professor Emma Teng](http://history.mit.edu/people/emma-teng), History and Foreign Languages and Literature, MIT) | &nbsp; |
-| 26 | Final Discussion: Do We Live in a Smaller World? | Final Assignment instructions distributed in class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction I. Time: World History and Deep History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction II. Space: "Reading" Maps
+{{< tdclose >}}
+{{< tdopen >}}
+In-class: Map Exercise with MIT Museum materials.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Big Picture I: From Afro-Eurasia to the World, ca. 1200 to 1700
+{{< tdclose >}}
+{{< tdopen >}}
+First Visual Exercise due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Travelers (Professor McCants & [Professor Christopher Leighton](https://ilp.mit.edu/node/11734), History, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Contact and Conflict in East Asia
+{{< tdclose >}}
+{{< tdopen >}}
+First Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Contact and Conflict in East Asia—Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Contact and Conflict in the Americas
+{{< tdclose >}}
+{{< tdopen >}}
+Second Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Contact and Conflict in the Americas—Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Debating World History, 1300–1600
+{{< tdclose >}}
+{{< tdopen >}}
+First Debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_This week included a trip outside of normal meeting times.—eds._
+{{< tdclose >}}
+{{< tdopen >}}
+Class Visit to the U.S.S. Constitution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Big Picture II: Global Trade, Empire, and Industrialization, 1600–1870
+{{< tdclose >}}
+{{< tdopen >}}
+Third Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Empire, Ideology, and Architecture: Eighteenth-Century Global Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Atlantic Revolutions in Global Context
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to MIT Museum
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Revolutions - Industrial and Industrious, Not Political
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Second Visual Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Consumption
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Porcelain in Asia, Europe, and Museums Today ([Professor Kristel Smentek](https://architecture.mit.edu/faculty/kristel-smentek), Architecture, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+Fourth Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Debating World History, 1600–1870
+{{< tdclose >}}
+{{< tdopen >}}
+Second Debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Exchanges in the Americas in the Nineteenth Century: Commodities and Music (Professor Ravel & [Professor Charles Shadle](http://mta.mit.edu/person/charles-shadle), Music and Theater, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_What would have been a class session was a holiday. There was no lecture, but an assignment was due.—eds._
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+Fifth Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Imperialism in Nineteenth and Twentieth Century South Asia and East Africa ([Professor Sana Aiyar](http://history.mit.edu/people/sana-aiyar), History, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+1918: The Wilsonian Moment in the Middle East ([Professor Lerna Ekmekcioglu](http://history.mit.edu/people/lerna-ekmekcioglu), History, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Era of Mass Society and Total War ([Professor Hiromu Nagahara](http://history.mit.edu/people/hiromu-nagahara), History, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Ideology and Practice: The Cold War as a Way of Life ([Professor Chris Capozzola](http://history.mit.edu/people/christopher-capozzola), History, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+Third Visual Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Debate: Globalization, 1870-Present
+{{< tdclose >}}
+{{< tdopen >}}
+Third Debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Migrations, Citizenship, and Identity in the Post-World War II Era ([Professor Emma Teng](http://history.mit.edu/people/emma-teng), History and Foreign Languages and Literature, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Discussion: Do We Live in a Smaller World?
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment instructions distributed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
