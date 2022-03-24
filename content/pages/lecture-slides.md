@@ -24,7 +24,7 @@ LECTURE TOPICS AND SLIDES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction II. Space: "Reading" Maps (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_2)
+[Introduction II. Space: "Reading" Maps (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ LECTURE TOPICS AND SLIDES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Big Picture I: From Afro-Eurasia to the World, ca. 1200 to 1700 (PDF - 6.0MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_3)
+[The Big Picture I: From Afro-Eurasia to the World, ca. 1200 to 1700 (PDF - 6.0MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_3)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ LECTURE TOPICS AND SLIDES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Contact and Conflict in East Asia (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_5)
+[Contact and Conflict in East Asia (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ LECTURE TOPICS AND SLIDES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Contact and Conflict in East Asia—Discussion (PDF - 3.3MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_6)
+[Contact and Conflict in East Asia—Discussion (PDF - 3.3MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ LECTURE TOPICS AND SLIDES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Contact and Conflict in the Americas (PDF - 3.7MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_7)
+[Contact and Conflict in the Americas (PDF - 3.7MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_7)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ LECTURE TOPICS AND SLIDES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Contact and Conflict in the Americas—Discussion (PDF - 1.9MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_8)
+[Contact and Conflict in the Americas—Discussion (PDF - 1.9MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_8)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ LECTURE TOPICS AND SLIDES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Big Picture II: Global Trade, Empire, and Industrialization, 1600–1870 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_10)
+[The Big Picture II: Global Trade, Empire, and Industrialization, 1600–1870 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_10)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ LECTURE TOPICS AND SLIDES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Empire, Ideology, and Architecture: Eighteenth-Century Global Examples (PDF - 6.1MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_11)
+[Empire, Ideology, and Architecture: Eighteenth-Century Global Examples (PDF - 6.1MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_11)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ LECTURE TOPICS AND SLIDES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Atlantic Revolutions in Global Context (PDF - 6.5MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_12)
+[The Atlantic Revolutions in Global Context (PDF - 6.5MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_12)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ LECTURE TOPICS AND SLIDES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond (PDF - 2.2MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_18)
+[The Big Picture III: Imperialism, Nation-States, Colonialism, 1815-1914 & Beyond (PDF - 2.2MB)]({{< baseurl >}}/resources/mit21h_009s14_lec_18)
 {{< tdclose >}}
 
 {{< trclose >}}

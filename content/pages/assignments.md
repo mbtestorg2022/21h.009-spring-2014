@@ -28,7 +28,7 @@ ASSIGNMENTS
 
 [Visual Assignment 1 (PDF)]({{< baseurl >}}/resources/mit21h_009s14_visualasign1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Visual Assignment 1 Images (PDF - 2.0MB)]({{< baseurl >}}/resources/mit21h_009s14_pict)
+[Visual Assignment 1 Images (PDF - 2.0MB)]({{< baseurl >}}/resources/mit21h_009s14_pict)
 
 
 {{< tdclose >}}
